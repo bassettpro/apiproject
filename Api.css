@@ -1,0 +1,13 @@
+body {
+   background-color: rgba(236, 12, 12, 0.87);
+    background-image: url(http://www.novemberfire.com/shirtspopup/NFTpop060.gif);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: top;
+    
+}
+
+#potato{
+margin: 0 auto;
+text-align: center;
+}
